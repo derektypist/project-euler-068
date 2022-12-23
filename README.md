@@ -8,9 +8,9 @@ Consider the following &quot;magic&quot; 3-gon ring, filled with the numbers 1 t
 
   3
 
-  / \
+  /  \
 
- 1 - 2 - 6
+ 1 -   2   - 6
 
  /
 
@@ -41,4 +41,10 @@ Information at [Project Euler 068](https://projecteuler.net/problem=68)
 As a user, I expect the function `magic5GonRing()` to return a number.
 
 As a user, I expect the function `magic5GonRing()` to return 6531031914842725.
+
+User Stories on function `magic5GonRing()` taken from [FreeCodeCamp - Coding Interview Prep - Project Euler 068](https://www.freecodecamp.org/learn/coding-interview-prep/project-euler/problem-68-magic-5-gon-ring)
+
+**Information Architecture**
+
+The function `magic5GonRing()` returns a number.
 
