@@ -46,3 +46,30 @@ The function `magic5GonRing()` returns a number.
 
 Allows the user to show or hide the solution to the problem as described in [Project Euler 068](https://projecteuler.net/problem=68).
 
+## Technologies
+
+Uses HTML5, CSS3, JavaScript, Bootstrap 5.2.3 and Google Fonts.
+
+## Testing
+
+Ensure all user stories have been met.
+
+## Deployment
+
+Deployed on [GitHub Pages](https://derektypist.github.io/project-euler-068) at the main branch.
+
+## Credits
+
+### Content
+
+Written by me.
+
+### Media
+
+[Image](image/ring.png) created on Freeform.  A screenshot has been taken while using Freeform.
+
+### Acknowledgements
+
+- [Project Euler](https://projecteuler.net)
+- [GitHub](https://www.github.com)
+- [FreeCodeCamp](https://www.freecodecamp.org)
