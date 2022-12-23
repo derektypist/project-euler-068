@@ -6,13 +6,13 @@ Consider the following &quot;magic&quot; 3-gon ring, filled with the numbers 1 t
 
   \
 
-     3
+  3
 
-    / \
+  / \
 
-   1 - 2 - 6
+ 1 - 2 - 6
 
-  /
+ /
 
  5
 
