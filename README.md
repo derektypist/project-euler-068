@@ -2,7 +2,7 @@
 
 Consider the following &quot;magic&quot; 3-gon ring, filled with the numbers 1 to 6, and each line adding to nine.
 
-[Ring Image](image/ring.png)
+![Ring Image](image/ring.png)
 
 Working clockwise, and starting from the group of three with the numerically lowest external mode (4, 3, 2 in this example), each solution can be described uniquely.  For example, the above solution can be described by the set: 4,3,2; 6,2,1; 5,1,3.
 
