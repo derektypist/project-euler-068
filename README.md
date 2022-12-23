@@ -24,7 +24,13 @@ Information at [Project Euler 068](https://projecteuler.net/problem=68)
 
 ## UX
 
+**Getting Started**
+
+Select the Show Solution button to show the solution.  Select the Hide Solution button to hide the solution.
+
 **User Stories**
+
+As a user, I can show or hide the solution by selecting the appropriate button.
 
 As a user, I expect the function `magic5GonRing()` to return a number.
 
@@ -35,4 +41,8 @@ User Stories on function `magic5GonRing()` taken from [FreeCodeCamp - Coding Int
 **Information Architecture**
 
 The function `magic5GonRing()` returns a number.
+
+## Features
+
+Allows the user to show or hide the solution to the problem as described in [Project Euler 068](https://projecteuler.net/problem=68).
 
