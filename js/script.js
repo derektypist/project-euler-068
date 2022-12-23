@@ -44,3 +44,9 @@ function magic5GonRing() {
     const result = parseInt(max);
     return result;
 }
+
+// Function to Hide Solution
+function hideSolution() {
+    let txt = "";
+    document.getElementById("solutioninfo").innerHTML = txt;
+}
