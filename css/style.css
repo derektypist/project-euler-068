@@ -12,6 +12,11 @@ h2 {
     color: purple;
 }
 
+/* Instructions */
+.instructions {
+    font-size: 0.85rem;
+}
+
 /* Image */
 img {
     display: block;
